@@ -56,6 +56,10 @@ public class ArtworkGUI {
             g.fillRect(300, 300, 100, 100);
 
             g.setColor(new Color(55, 159, 21));
+            g.drawRect(200, 300, 100, 100);
+            g.fillRect(200, 300, 100, 100);
+
+            g.setColor(new Color(55, 159, 21));
             g.drawRect(100, 200, 100, 100);
             g.fillRect(100, 200, 100, 100);
 
